@@ -2,6 +2,7 @@
 title: "Linguistics Outreach"
 collection: teaching
 type: "Posters & Activicties"
+venue: Science Museum
 permalink: /teaching/linguistics-outreach
 date: 2014-01-01
 ---
