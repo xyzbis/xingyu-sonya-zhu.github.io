@@ -10,4 +10,4 @@ When I'm not working, I have a number of hobbies. I enjoy gaming: both video gam
 
 ![Picture of Rachael in an aerial sling](https://rctatman.github.io/personal-website/images/circus_pic.jpeg)
 
-I have an African Pygmy Hedgehog named Gustav, who [prefers R to Python](https://twitter.com/rctatman/status/992065377378095106). 
+I have an African Pygmy Hedgehog named Gustav, who [apparently prefers Python to R](https://twitter.com/rctatman/status/992065377378095106). 
