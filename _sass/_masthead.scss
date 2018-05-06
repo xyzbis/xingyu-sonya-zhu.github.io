@@ -34,6 +34,7 @@
 }
 
 .masthead__menu {
+  background-color: $lighter-gray;
 
   ul {
     margin: 0;
@@ -44,6 +45,7 @@
 }
 
 .masthead__menu-item {
+  background-color: $lighter-gray;
   display: block;
   list-style-type: none;
   white-space: nowrap;
