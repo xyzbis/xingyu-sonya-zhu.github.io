@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "rachael_headshot (2).jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Seattle, WA, USA"
+  employer         : "Kaggle"
+  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
+  email            : "rachael.tatman@gmail.com, rachael@kaggle.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rctatman"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/rachael-tatman-500a323a/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitch           : "https://www.twitch.tv/rctatman"
+  twitter          : "rctatman"
   vine             :
   weibo            :
   xing             :
