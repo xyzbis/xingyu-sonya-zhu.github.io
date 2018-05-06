@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Statistics for Linguists"
 collection: teaching
-type: "Handouts"
+type: "Slides"
 venue: Phonetics Lab
 permalink: /teaching/bayesian
 date: 2013-01-01
