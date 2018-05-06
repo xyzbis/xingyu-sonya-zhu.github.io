@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : rctatman
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
