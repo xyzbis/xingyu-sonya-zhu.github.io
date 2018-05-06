@@ -3,7 +3,7 @@ title: "Presenting Text Stimuli For Production Experiments in PsychoPy Using the
 collection: teaching
 type: "Handouts"
 venue: Phonetics Lab
-permalink: /teaching/PsychoPy
+permalink: /teaching/psychopy
 date: 2012-02-08
 ---
 
