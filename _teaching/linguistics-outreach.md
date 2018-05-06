@@ -7,8 +7,6 @@ permalink: /teaching/linguistics-outreach
 date: 2014-01-01
 ---
 
-**Linguistics Outreach ** 
-
 These materials were developed for [Paws on Science](http://www.pacificsciencecenter.org/Research-Weekends/paws-on-science); an annual event put on by the Pacific Science Center to help UW scientists connect with the public. They were designed with an elementary-school audience in mind.
 
 *   [Posters](https://www.dropbox.com/s/nmtszkhoridy55a/postersEdited.pdf?dl=0) explaining the activities. I would recommend picking a maximum of three.
