@@ -13,10 +13,10 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://makingnoiseandhearingthings.com/
     
   - title: "CV"
-    url: /cv/
+    url: https://www.dropbox.com/s/eluyztji6zpjmr5/Tatman_Academic_CV.pdf?dl=0
     
   - title: "Guide"
     url: /markdown/
