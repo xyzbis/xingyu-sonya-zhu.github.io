@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "rachael_headshot (2).jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Science & NLP"
   location         : "Seattle, WA, USA"
   employer         : "Kaggle"
   googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rachael-tatman-500a323a/"
+  linkedin         : "rachael-tatman-500a323a"
   orcid            :
   pinterest        :
   soundcloud       :
