@@ -3,7 +3,7 @@ permalink: /personal/
 title: "Personal"
 author_profile: true
 redirect_from: 
-  - /personal.md
+  - 
 ---
 
 When I'm not working, I have a number of hobbies. I enjoy gaming: both video games and strategic boardgames. I also knit, crochet and spin. My Ravelry id is rctatman and I've even been known to release the occasional knitting pattern. And I love to bake.
