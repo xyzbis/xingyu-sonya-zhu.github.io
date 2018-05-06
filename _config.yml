@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Rachael Tatman"
   avatar           : "rachael_headshot (2).jpg"
   bio              : "Data Science & NLP"
-  location         : "Seattle, WA, USA"
+  location         : "Seattle, WA"
   employer         : "Kaggle"
   googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : "rachael.tatman@gmail.com, rachael@kaggle.com"
+  email            : "rachael.tatman@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
