@@ -6,11 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Educational Resources"
+    url: /teaching/
         
   - title: "Blog Posts"
     url: https://makingnoiseandhearingthings.com/
@@ -18,5 +15,8 @@ main:
   - title: "CV"
     url: https://www.dropbox.com/s/eluyztji6zpjmr5/Tatman_Academic_CV.pdf?dl=0
     
-  - title: "Guide"
+  - title: "Media Coverage"
     url: /markdown/
+    
+  - title: "Personal"
+    url: /personal/
