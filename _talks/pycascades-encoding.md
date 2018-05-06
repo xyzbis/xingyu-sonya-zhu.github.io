@@ -3,7 +3,7 @@ title: "Character Encoding and You�"
 collection: talks
 type: "Talk"
 permalink: /talks/pycascades-encoding
-date: 2018-01-022
+date: 2018-01-23
 location: "Vancouver BC"
 ---
 
