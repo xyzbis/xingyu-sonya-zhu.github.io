@@ -1,5 +1,5 @@
 ---
-title: ""He maybe did" or "He may be dead"? The use of acoustic and social cues in applying perceptual learning of a new dialect "
+title: "'He maybe did' or 'He may be dead'? The use of acoustic and social cues in applying perceptual learning of a new dialect "
 collection: publications
 permalink: /publication/2017-06-25-HeMaybeDid  
 date: 2017-06-25
