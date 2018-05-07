@@ -6,6 +6,7 @@ redirect_from:
   - 
 ---
 
+<div style="text-align:center" markdown="1">
 ![Alt](https://rctatman.github.io/personal-website/images/circus_pic.jpeg#right)
 
 img[src*='#right']{ float: right; }
