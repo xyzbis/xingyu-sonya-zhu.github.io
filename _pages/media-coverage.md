@@ -9,7 +9,7 @@ redirect_from:
 
 My research has been discussed in many publications, including [The Economist](https://www.economist.com/news/books-and-arts/21737017-you-can-train-your-gadgets-understand-what-youre-saying-world) and [The Atlantic](https://www.theatlantic.com/business/archive/2016/12/good-girls-revolt/510245/). If you're a reporter, I'm always happy to chat about my research or data science in general. You can find my contact information in the left sidebar.
 
-![Picture  of Rachael](https://i.imgur.com/9PzScua.jpg)
+<img align="right" src="https://i.imgur.com/9PzScua.jpg">
 
 *   [This Boston Globe article](https://www.bostonglobe.com/ideas/2018/02/10/the-hashtag-right-overusing-capital-letters/vGaZgsGksDs7QeEjHSssUO/story.html) covers my work looking at patterns of capitalization and political affilation on Twitter.
 *   I was featured in the January 2018 edition of Seattle Met's "[Quote Unquote](https://www.seattlemet.com/articles/2017/12/19/meet-rachael-tatman-professional-emoji-whisperer)", talking about emoji and linguistics. The interview also featured this emoji-tastic photo by [Joshua Huston](https://www.seattlemet.com/producers/joshua-huston).
