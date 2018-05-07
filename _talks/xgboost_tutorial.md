@@ -3,6 +3,7 @@ title: "Intro to Kaggle: XGBoost!"
 collection: talks
 type: "Talk"
 permalink: /talks/xgboost_tutorial
+venue: Metis
 date: 2018-01-16
 location: "Seattle WA"
 ---
