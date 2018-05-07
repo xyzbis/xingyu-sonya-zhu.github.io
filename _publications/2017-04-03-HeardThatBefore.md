@@ -1,5 +1,5 @@
 ---
-title: ""Oh, I've Heard That Before": Modelling Own-Dialect Bias After Perceptual Learning by Weighting Training Data "
+title: "Oh, I've Heard That Before: Modelling Own-Dialect Bias After Perceptual Learning by Weighting Training Data "
 collection: publications
 permalink: /publication/2017-04-03-HeardThatBefore 
 date: 2017-04-03
