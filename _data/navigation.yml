@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Talks"
     url: /talks/    
 
@@ -14,6 +11,9 @@ main:
     
   - title: "CV"
     url: https://www.dropbox.com/s/eluyztji6zpjmr5/Tatman_Academic_CV.pdf?dl=0
+    
+  - title: "Publications"
+    url: /publications/
     
   - title: "Media Coverage"
     url: /media-coverage/
