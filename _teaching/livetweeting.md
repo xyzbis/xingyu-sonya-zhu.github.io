@@ -2,7 +2,7 @@
 title: "A Guide to Livetweeting Conferences"
 collection: teaching
 type: "Website"
-venue:  https://rctatman.github.io/Livetweeting-Guide/
+venue:  [Website](https://rctatman.github.io/Livetweeting-Guide/)
 permalink: /teaching/livetweeting
 date: 2018-01-01
 ---
