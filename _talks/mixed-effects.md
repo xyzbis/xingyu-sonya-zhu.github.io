@@ -3,7 +3,7 @@ title: "Mixed Effects Regression"
 collection: talks
 type: "Talk"
 permalink: /talks/mixed-effects
-venue: R-Ladies
+venue: Google Developer Group (GDG) Seattle
 date: 2018-09-26
 location: "Seattle, WA"
 ---
