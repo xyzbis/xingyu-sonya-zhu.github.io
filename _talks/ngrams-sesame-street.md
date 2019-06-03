@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/sesame-street
 venue: The Ministry of Silly Talks + SuperMeetup Social Hour
-date: 2019-05-26
+date: 2019-05-31
 location: "Seattle, WA"
 ---
 
