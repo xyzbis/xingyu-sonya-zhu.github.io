@@ -2,7 +2,7 @@
 title: "Sociolinguistic Variation and Automatic Speech Recognition: Challenges and Approaches"
 collection: talks
 type: "Talk"
-venue: "Women Tech Makers Seattle"
+venue: "American Association for the Advancement of Science"
 permalink: /talks/aaas_seattle
 date: 2020-02-14
 location: "Seattle WA"
