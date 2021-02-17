@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rachael Tatman"
+title                    : "Dr. XX Z"
 title_separator          : "-"
-name                     : &name "Rachael Tatman"
-description              : &description "Data scientist, Developer advocate, Linguist"
-url                      : http://www.rctatman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "XX Z"
+description              : &description "Economist, Data scientist"
+url                      : https://scatterR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "scatterR/scatterR.github.io"
+repository               : "scatterR.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
