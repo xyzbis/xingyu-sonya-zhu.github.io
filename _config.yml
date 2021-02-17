@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rachael Tatman"
+  name             : "Dr. Sonya Zhu"
   avatar           : "rachael_headshot (2).jpg"
   bio              : "Data Science & NLP"
-  location         : "Seattle, WA"
-  employer         : "Kaggle"
-  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : "rachael.tatman@gmail.com"
+  location         : #"Seattle, WA"
+  employer         : #"Kaggle"
+  googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
+  email            : "xingyu.sonya.zhu@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,18 +91,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rctatman"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rachael-tatman-500a323a"
+  linkedin         : #"rachael-tatman-500a323a"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  twitter          : "rctatman"
+  twitter          : "ZhuSonya"
   vine             :
   weibo            :
   xing             :
