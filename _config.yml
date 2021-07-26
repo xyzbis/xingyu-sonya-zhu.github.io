@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. XX Z"
+title                    : "Sonya Xingyu Zhu"
 title_separator          : "-"
-name                     : &name "XX Z"
-description              : &description "Economist, Data scientist"
+name                     : &name "Sonya Xingyu Zhu"
+description              : &description "Economist"
 url                      : https://scatterR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "scatterR.github.io"
+repository               : "xingyu-sonya-zhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  &twitter
 facebook:
   username               :
   app_id                 :
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Sonya Zhu"
+  name             : "Sonya Xingyu Zhu"
   avatar           : "twodoves.png"
-  bio              : "Data Science & NLP"
+  bio              : "Economist"
   location         : #"Seattle, WA"
   employer         : #"Kaggle"
   googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : "xingyu.sonya.zhu@gmail.com"
+  email            : "sonya.zhu.90@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
