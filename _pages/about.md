@@ -10,16 +10,16 @@ redirect_from:
 
 EDUCATION
 ======
-* Ph.D in Finance, Stockholm School of Economics, 2021 (expected)
-* M.A. in Economics, Simon Fraser University, 2014
-* B.S. in Applied Mathematics, Wuhan University, 2013
-* B.A. in Mathematical Economics, Wuhan University, 2013
+* Ph.D in Finance, Stockholm School of Economics, 2021 (expected).
+* M.A. in Economics, Simon Fraser University, 2014.
+* B.S. in Applied Mathematics, Wuhan University, 2013.
+* B.A. in Mathematical Economics, Wuhan University, 2013.
   
 
 WORKING PAPERS
 ======
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543)
-  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348)
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).
+  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348).
 
 
 ACADEMIC PRESENTATIONS
@@ -51,28 +51,28 @@ TEACHING
 HONORS AND GRANTS
 ======
   * 2021 
-    - Edwin Jordans Stipendiefond
+    - Edwin Jordans Stipendiefond.
   * 2020 
-    - Grosshandlare Emil Hellströms PhD Scholarship
-    - Iwar Sjögrens PhD Scholarship
+    - Grosshandlare Emil Hellströms PhD Scholarship.
+    - Iwar Sjögrens PhD Scholarship.
   * 2019 
-    - Infina Foundation PhD Scholarship
+    - Infina Foundation PhD Scholarship.
   * 2017-2020 
-    - Swedish Bank Research Foundation Research Grant
+    - Swedish Bank Research Foundation Research Grant.
   * 2015-2016 
-    - Stockholm School of Economics PhD Stipend
+    - Stockholm School of Economics PhD Stipend.
   * 2014
-    - Doreen Wilkinson Memorial Graduate Scholarship in Economics, Simon Fraser University
+    - Doreen Wilkinson Memorial Graduate Scholarship in Economics, Simon Fraser University.
   * 2013-2014 
-    - Graduate Fellowship, Simon Fraser University
+    - Graduate Fellowship, Simon Fraser University.
 
 COMPUTER SKILLS
 ======
-  * Python, R, Slurm, SQL, Matlab, Stata, SAS
+  * Python, R, Slurm, SQL, Matlab, Stata, and SAS.
 
 OTHER ACADEMIC ACTIVITIES
 ======
   * 2020-now
     - Co-founder of [Letitbit](https://letitbit.se/). 
   * 2017
-    - Board member of Female Economist Network of Stockholm and Uppsala
+    - Board member of Female Economist Network of Stockholm and Uppsala.
