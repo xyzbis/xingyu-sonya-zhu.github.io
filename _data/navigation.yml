@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   - title: "Links & Resources"
     url: /teaching/
         
-  - title: "Blog"
-    url: https://makingnoiseandhearingthings.com/
+  #- title: "Blog"
+  #  url: https://makingnoiseandhearingthings.com/
     
   - title: "CV"
     url: https://www.dropbox.com/s/eluyztji6zpjmr5/Tatman_Academic_CV.pdf?dl=0
@@ -15,8 +15,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Media Coverage"
-    url: /media-coverage/
+  #- title: "Media Coverage"
+  #  url: /media-coverage/
     
   - title: "Personal"
     url: /personal/
