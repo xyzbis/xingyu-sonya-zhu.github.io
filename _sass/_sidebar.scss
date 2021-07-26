@@ -70,10 +70,10 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table; /*Zhu: change from table-cell to table*/
+  display: table-cell;  
   vertical-align: top;
-  width: 75px; /*Zhu: change from 36px to 44px*/
-  height: 44px; /*Zhu: change from 36px to 44px*/
+  width: 36px;  
+  height: 36px;  
 
   @include breakpoint($large) {
     display: block;
@@ -83,7 +83,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
