@@ -43,7 +43,8 @@ TEACHING
 
 HONORS AND GRANTS
 ======
-  * 2020 Grosshandlare Emil Hellstr\oms PhD Scholarship, Iwar Sj\ogrens PhD Scholarship
+  * 2021 Edwin Jordans Stipendiefond
+  * 2020 Grosshandlare Emil Hellströms PhD Scholarship, Iwar Sjögrens PhD Scholarship
   * 2019 Infina Foundation PhD Scholarship
   * 2017-2020 Swedish Bank Research Foundation Research Grant
   * 2015-2016 Stockholm School of Economics PhD Stipend
