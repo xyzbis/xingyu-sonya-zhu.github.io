@@ -43,14 +43,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Discussions
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * The Rise of Bond Financing in Europe. (by Olivier Darmouni and Melina Papoutsi) World Finance & Banking Symposium; December 2020.
+  * What Keeps Stablecoins Stable? (by Richard K. Lyons and Ganesh Viswanath-Natraj) Australasian Finance & Banking Conference; December 2020.
+  * The Pricing and Welfare Implications of Non-anonymous Trading. (by Ehsan Azarmsa and Jian Li) Eastern Finance Association; April 2021.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020)
+  * Applied Financial Econometrics (Master, Stockholm School of Economics, 2018, 2019, 2020)
+  * Derivatives in Investment Management (Bachelor, Stockholm School of Economics, 2017)
