@@ -25,10 +25,9 @@ ACADEMIC PRESENTATIONS
 
 WORKING PAPERS
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  * [Volume Dynamics around FOMC Announcements]{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543}
+  * [Inflation Compensation and Monetary Policy (with Vasili Dedes)]{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348}
+ 
 DISCUSSIONS
 ======
   * The Rise of Bond Financing in Europe. (by Olivier Darmouni and Melina Papoutsi) World Finance & Banking Symposium; December 2020.
@@ -51,10 +50,10 @@ HONORS AND GRANTS
   * 2014 Doreen Wilkinson Memorial Graduate Scholarship in Economics, Simon Fraser University
   * 2013-2014 Graduate Fellowship, Simon Fraser University
 
-NON ACADEMIC ACTIVITIES
-======
-  * Board member: Female Economist Network of Stockholm and Uppsala, 2017
-
 COMPUTER SKILLS
 ======
   * Python, R, Slurm, SQL, Matlab, Stata, SAS
+
+OTHER ACADEMIC ACTIVITIES
+======
+  * 2017: Board member of Female Economist Network of Stockholm and Uppsala
