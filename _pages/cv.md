@@ -25,8 +25,8 @@ ACADEMIC PRESENTATIONS
 
 WORKING PAPERS
 ======
-  * [Volume Dynamics around FOMC Announcements]{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543}
-  * [Inflation Compensation and Monetary Policy (with Vasili Dedes)]{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348}
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543)
+  * [Inflation Compensation and Monetary Policy (with Vasili Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348)
  
 DISCUSSIONS
 ======
