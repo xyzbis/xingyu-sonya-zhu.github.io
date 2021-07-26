@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. XX Z"
+title                    : "Sonya Zhu"
 title_separator          : "-"
-name                     : &name "XX Z"
-description              : &description "Economist, Data scientist"
+name                     : &name "Sonya Z"
+description              : &description "Economist"
 url                      : "https://xingyu-sonya-zhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xingyu-sonya-zhu.github.io"
@@ -73,13 +73,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-127655615-1"
+    tracking_id          :  "UA-280667678-1"
 
 # Site Author
 author:
   name             : "Sonya Xingyu Zhu"
   avatar           : "twodoves.png"
-  bio              : "Data Science & NLP"
+  bio              : #""
   location         : #"Seattle, WA"
   employer         : #"Kaggle"
   googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
