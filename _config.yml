@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "resizepic.jpg"
+  avatar           : "resizepic.png"
   bio              : "I am a PhD candidate in Finance at the Stockholm School of Economics. My areas of interest include asset pricing, market microstructure, and fintech."
   location         : "Stockholm, 111 60, Sweden"
   employer         : #"Kaggle"
