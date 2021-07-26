@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sonya Xingyu Zhu"
+title                    : "Xingyu Sonya Zhu"
 title_separator          : "-"
-name                     : &name "Sonya Xingyu Zhu"
+name                     : &name "Xingyu Sonya Zhu"
 description              : &description "Economist"
 url                      : "https://xingyu-sonya-zhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sonya Xingyu Zhu"
+  name             : "Xingyu Sonya Zhu"
   avatar           : "twodoves.png"
   bio              : "Economist"
   location         : #"Seattle, WA"
