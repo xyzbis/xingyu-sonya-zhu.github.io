@@ -37,14 +37,14 @@ DISCUSSIONS
   
 TEACHING
 ======
-  * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020)
-  * Applied Financial Econometrics (Master, Stockholm School of Economics, 2018, 2019, 2020)
-  * Derivatives in Investment Management (Bachelor, Stockholm School of Economics, 2017)
+  * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020).
+  * Applied Financial Econometrics (Master, Stockholm School of Economics, 2018, 2019, 2020).
+  * Derivatives in Investment Management (Bachelor, Stockholm School of Economics, 2017).
 
 HONORS AND GRANTS
 ======
   * 2021 Edwin Jordans Stipendiefond
-  * 2020 Grosshandlare Emil Hellströms PhD Scholarship, Iwar Sjögrens PhD Scholarship
+  * 2020 Grosshandlare Emil Hellströms PhD Scholarship; Iwar Sjögrens PhD Scholarship
   * 2019 Infina Foundation PhD Scholarship
   * 2017-2020 Swedish Bank Research Foundation Research Grant
   * 2015-2016 Stockholm School of Economics PhD Stipend
@@ -53,7 +53,7 @@ HONORS AND GRANTS
 
 NON ACADEMIC ACTIVITIES
 ======
-* Board member: Female Economist Network of Stockholm and Uppsala, 2017
+  * Board member: Female Economist Network of Stockholm and Uppsala, 2017
 
 COMPUTER SKILLS
 ======
