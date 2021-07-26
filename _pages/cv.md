@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Applied Mathematics, Wuhan University, 2013
+* B.A. in Mathematical Economics, Wuhan University, 2013
+* M.A. in Economics, Simon Fraser University, 2014
+* Ph.D in Finance, Stockholm School of Economics, 2021 (expected)
 
 Work experience
 ======
@@ -53,7 +54,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
