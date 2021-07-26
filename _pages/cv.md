@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * B.S. in Applied Mathematics, Wuhan University, 2013
 * B.A. in Mathematical Economics, Wuhan University, 2013
@@ -43,8 +43,7 @@ TEACHING
 
 HONORS AND GRANTS
 ======
-  * 2020 Grosshandlare Emil Hellstr&ooms PhD Scholarship 
-    * Iwar Sj&oogrens PhD Scholarship
+  * 2020 Grosshandlare Emil Hellstr\oms PhD Scholarship, Iwar Sj\ogrens PhD Scholarship
   * 2019 Infina Foundation PhD Scholarship
   * 2017-2020 Swedish Bank Research Foundation Research Grant
   * 2015-2016 Stockholm School of Economics PhD Stipend
