@@ -30,9 +30,12 @@ WORKING PAPERS
  
 DISCUSSIONS
 ======
-  * The Rise of Bond Financing in Europe. (by Olivier Darmouni and Melina Papoutsi) World Finance & Banking Symposium; December 2020.
-  * What Keeps Stablecoins Stable? (by Richard K. Lyons and Ganesh Viswanath-Natraj) Australasian Finance & Banking Conference; December 2020.
-  * The Pricing and Welfare Implications of Non-anonymous Trading. (by Ehsan Azarmsa and Jian Li) Eastern Finance Association; April 2021.
+  * The Rise of Bond Financing in Europe (Olivier Darmouni and Melina Papoutsi).
+     - World Finance & Banking Symposium; December 2020.
+  * What Keeps Stablecoins Stable (Richard K. Lyons and Ganesh Viswanath-Natraj)? 
+     - Australasian Finance & Banking Conference; December 2020.
+  * The Pricing and Welfare Implications of Non-anonymous Trading (Ehsan Azarmsa and Jian Li).
+     - Eastern Finance Association; April 2021.
   
 TEACHING
 ======
