@@ -4,12 +4,13 @@ main:
   #  url: /talks/    
   - title: "Research"
     url: /publications/ 
+  
+  - title: "CV"
+    url: /personal/
     
   - title: "Teaching"
     url: /teaching/
   
-  - title: "CV"
-    url: /personal/
   #- title: "Blog"
   #  url: https://makingnoiseandhearingthings.com/
     
