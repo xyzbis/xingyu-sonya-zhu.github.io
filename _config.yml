@@ -77,13 +77,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xingyu Sonya Zhu"
+  name             : ""
   avatar           : "twodoves.png"
   bio              : "I am a PhD candidate in Finance at the Stockholm School of Economics.  My areas of interest include asset pricing, market microstructure, and big data, with an emphasis on information diffusion in the financial market."
   location         : #"Seattle, WA"
   employer         : #"Kaggle"
   googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
   email            : "sonya.zhu.90@gmail.com"
+  mail             : "Drottninggatan 98, Stockholm, 111 60, Sweden" 
   uri              :
   bitbucket        :
   codepen          :
