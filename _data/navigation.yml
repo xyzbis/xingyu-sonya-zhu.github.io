@@ -2,21 +2,21 @@
 main:
   #- title: "Talks"
   #  url: /talks/    
-
-  - title: "Links & Resources"
+  - title: "Research"
+    url: /publications/ 
+    
+  - title: "Teaching"
     url: /teaching/
-        
+  
+  - title: "CV"
+    url: /personal/
   #- title: "Blog"
   #  url: https://makingnoiseandhearingthings.com/
     
-  - title: "CV"
-    url: https://www.dropbox.com/s/eluyztji6zpjmr5/Tatman_Academic_CV.pdf?dl=0
-    
-  - title: "Publications"
-    url: /publications/
+  #- title: "CV"
+  #  url: https://www.dropbox.com/s/eluyztji6zpjmr5/Tatman_Academic_CV.pdf?dl=0
     
   #- title: "Media Coverage"
   #  url: /media-coverage/
     
-  - title: "Personal"
-    url: /personal/
+
