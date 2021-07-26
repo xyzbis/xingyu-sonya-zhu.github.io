@@ -72,5 +72,7 @@ COMPUTER SKILLS
 
 OTHER ACADEMIC ACTIVITIES
 ======
+  * 2020-now
+    - Co-founder of [Letitbit](https://letitbit.se/). 
   * 2017
     - Board member of Female Economist Network of Stockholm and Uppsala
