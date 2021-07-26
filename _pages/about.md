@@ -10,7 +10,7 @@ redirect_from:
 
 EDUCATION
 ======
-* Ph.D in Finance, Stockholm School of Economics, 2021 (expected).
+* Ph.D. in Finance, Stockholm School of Economics, 2021 (expected).
 * M.A. in Economics, Simon Fraser University, 2014.
 * B.S. in Applied Mathematics, Wuhan University, 2013.
 * B.A. in Mathematical Economics, Wuhan University, 2013.
