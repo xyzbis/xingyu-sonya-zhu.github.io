@@ -15,6 +15,13 @@ EDUCATION
 * B.S. in Applied Mathematics, Wuhan University, 2013
 * B.A. in Mathematical Economics, Wuhan University, 2013
   
+
+WORKING PAPERS
+======
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543)
+  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348)
+
+
 ACADEMIC PRESENTATIONS
 ======
 * 2021 
@@ -25,11 +32,6 @@ ACADEMIC PRESENTATIONS
   - National PhD Workshop in Finance; SSE Brownbag; SSE PhD Seminar.
 * 2018 
   - SSE PhD Seminar.
-
-WORKING PAPERS
-======
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543)
-  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348)
  
 DISCUSSIONS
 ======
