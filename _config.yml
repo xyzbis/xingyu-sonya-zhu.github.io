@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :  &twitter
+  username               :  #&twitter
 facebook:
   username               :
   app_id                 :
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : ""
   avatar           : "cropped-Portraits2_Xingyu_2016v2.jpg"
-  bio              : #"I am a PhD candidate in Finance at the Stockholm School of Economics. My areas of interest include asset pricing, market microstructure, and fintech."
+  bio              : "I am a PhD candidate in Finance at the Stockholm School of Economics. My areas of interest include asset pricing, market microstructure, and fintech."
   location         : #"" #Stockholm, 111 60, Sweden
   employer         : #"Kaggle"
   googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
