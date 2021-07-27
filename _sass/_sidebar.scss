@@ -82,7 +82,7 @@
   }
 
   img {
-    max-width: 200px; /*change from  175px to 200 px by Zhu*/
+    max-width: 175%; /*change from  175px to 175% px by Zhu*/
     border-radius: 0%; /*change from  50% to 0% by Zhu*/
 
     @include breakpoint($large) {
