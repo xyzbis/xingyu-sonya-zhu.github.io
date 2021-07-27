@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+WORKING PAPERS
+======
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).
+  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348).
+
 EDUCATION
 ======
 * Ph.D. in Finance, Stockholm School of Economics, 2021 (expected).
 * M.A. in Economics, Simon Fraser University, 2014.
 * B.S. in Applied Mathematics, Wuhan University, 2013.
 * B.A. in Mathematical Economics, Wuhan University, 2013.
-  
-
-WORKING PAPERS
-======
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).
-  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348).
-
 
 ACADEMIC PRESENTATIONS
 ======
