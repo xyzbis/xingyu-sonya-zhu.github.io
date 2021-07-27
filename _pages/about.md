@@ -70,7 +70,7 @@ COMPUTER SKILLS
 ======
   * Python, R, Slurm, SQL, Matlab, Stata, and SAS.
 
-OTHER ACADEMIC ACTIVITIES
+NONACADEMIC ACTIVITIES
 ======
   * 2020-now
     - Co-founder of [Letitbit](https://letitbit.se/). 
