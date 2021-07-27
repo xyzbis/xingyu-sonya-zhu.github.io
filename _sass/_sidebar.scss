@@ -83,7 +83,7 @@
 
   img {
     max-width: 175%; /*change from  175px to 175% px by Zhu*/
-    border-radius: 0%; /*change from  50% to 0% by Zhu*/
+    border-radius: 50%; /*change from  50% to 0% by Zhu*/
 
     @include breakpoint($large) {
       padding: 5px;
