@@ -28,7 +28,14 @@ OTHER PROFESSIONAL ACTIVITIES
     - 5th BIS workshop on Research on global financial stability. [**Submission deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5.htm)
     - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. London, 27-28 April 2023.
     - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
-  * Recruitment Committee (2021, 2022)
+  * Recruitment Committee (2021, 2022).
+
+EDUCATION
+======
+* Ph.D. in Finance, Stockholm School of Economics, 2021.
+* M.A. in Economics, Simon Fraser University, 2014.
+* B.S. in Applied Mathematics, Wuhan University, 2013.
+* B.A. in Mathematical Economics, Wuhan University, 2013.
 
 PAPER DISCUSSIONS
 ======
@@ -38,13 +45,6 @@ PAPER DISCUSSIONS
      - World Finance & Banking Symposium; December 2020.
   * Richard K. Lyons and Ganesh Viswanath-Natraj. **What Keeps Stablecoins Stable?** 
      - Australasian Finance & Banking Conference; December 2020.
-
-EDUCATION
-======
-* Ph.D. in Finance, Stockholm School of Economics, 2021.
-* M.A. in Economics, Simon Fraser University, 2014.
-* B.S. in Applied Mathematics, Wuhan University, 2013.
-* B.A. in Mathematical Economics, Wuhan University, 2013.
 
 ACADEMIC PRESENTATIONS
 ======
