@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingyu Sonya Zhu"
+title                    : "Sonya Zhu"
 title_separator          : "-"
-name                     : &name "Xingyu Sonya Zhu"
+name                     : &name "Sonya Zhu"
 description              : &description "Economist"
 url                      : "https://xingyu-sonya-zhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xingyu Sonya Zhu"
+  name             : "Sonya Zhu"
   avatar           : "cropped-Portraits2_Xingyu_2016v2.jpg"
-  bio              : "I am an Economist at the Bank for International Settlements. My areas of interest include asset pricing, monetary policy, and fintech."
+  bio              : "Welcome! This is my personal website. I am an Economist at the Bank for International Settlements. My areas of interest include asset pricing, monetary policy, and fintech. "
   location         : #"" #Stockholm, 111 60, Sweden
   employer         : #"Kaggle"
   googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
