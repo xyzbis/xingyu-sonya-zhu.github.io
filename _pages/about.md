@@ -8,37 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-## WORKING PAPERS
-======
+### WORKING PAPERS
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).
 
-## PUBLICATIONS
-======
+### PUBLICATIONS
   * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld and 341 others). Journal of Finance, forthcoming.
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
-## WORKING IN PROGRESS
-======
+### WORKING IN PROGRESS
   * Inflation Disagreement (with Dora Xia).
 
-## OTHER PROFESSIONAL ACTIVITIES
-======
+### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
     - 5th BIS workshop on Research on global financial stability. [**Submission deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5.htm)
     - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. London, 27-28 April 2023.
     - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
   * Recruitment Committee (2021, 2022).
 
-## EDUCATION
-======
+### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
 * M.A. in Economics, Simon Fraser University, 2014.
 * B.S. in Applied Mathematics, Wuhan University, 2013.
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
-## PAPER DISCUSSIONS
-======
+### PAPER DISCUSSIONS
   * Ehsan Azarmsa and Jian Li. **The Pricing and Welfare Implications of Non-anonymous Trading.** 
      - Eastern Finance Association; April 2021.
   * Olivier Darmouni and Melina Papoutsi. **The Rise of Bond Financing in Europe.** 
@@ -46,8 +40,7 @@ redirect_from:
   * Richard K. Lyons and Ganesh Viswanath-Natraj. **What Keeps Stablecoins Stable?** 
      - Australasian Finance & Banking Conference; December 2020.
 
-## ACADEMIC PRESENTATIONS
-======
+### ACADEMIC PRESENTATIONS
 * 2021 
   - Bank for International Settlements; E(astern)FA; Hong Kong University of Science and Technology (Guangzhou); University of Gothenburg; University of Vienna.
 * 2020 
@@ -57,14 +50,12 @@ redirect_from:
 * 2018 
   - SSE PhD Seminar.
   
-## TEACHING
-======
+### TEACHING
   * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020).
   * Applied Financial Econometrics (Master, Stockholm School of Economics, 2018, 2019, 2020).
   * Derivatives in Investment Management (Bachelor, Stockholm School of Economics, 2017).
 
-## HONORS AND GRANTS
-======
+### HONORS AND GRANTS
   * 2021 
     - Edwin Jordans Stipendiefond.
   * 2020 
@@ -81,12 +72,10 @@ redirect_from:
   * 2013-2014 
     - Graduate Fellowship, Simon Fraser University.
 
-## COMPUTER SKILLS
-======
+### COMPUTER SKILLS
   * Python, R, Slurm, SQL, Matlab, Stata, and SAS.
 
-## NONACADEMIC ACTIVITIES
-======
+### NONACADEMIC ACTIVITIES
   * 2020-now
     - Co-founder of [Letitbit](https://letitbit.se/). 
   * 2017
