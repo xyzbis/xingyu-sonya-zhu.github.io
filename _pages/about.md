@@ -46,10 +46,8 @@ redirect_from:
   - Bank for International Settlements; E(astern)FA; Hong Kong University of Science and Technology (Guangzhou); University of Gothenburg; University of Vienna.
 * 2020 
   - 33rd Australasian Finance and Banking Conference; PhD Nordic Finance Workshop; SSE Brownbag (x 2); Young Scholars Nordic Finance Workshop.
-* 2019 
-  - National PhD Workshop in Finance; SSE Brownbag; SSE PhD Seminar.
-* 2018 
-  - SSE PhD Seminar.
+* 2018-2019
+  - National PhD Workshop in Finance; SSE Brownbag; SSE PhD Seminar. 
   
 ### TEACHING
   * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020).
