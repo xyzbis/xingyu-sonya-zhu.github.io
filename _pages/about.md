@@ -34,11 +34,11 @@ redirect_from:
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
 ### PAPER DISCUSSIONS
-  * Ehsan Azarmsa and Jian Li. **The Pricing and Welfare Implications of Non-anonymous Trading.** 
+  * Ehsan Azarmsa and Jian Li. The Pricing and Welfare Implications of Non-anonymous Trading. 
      - Eastern Finance Association; April 2021.
-  * Olivier Darmouni and Melina Papoutsi. **The Rise of Bond Financing in Europe.** 
+  * Olivier Darmouni and Melina Papoutsi. The Rise of Bond Financing in Europe. 
      - World Finance & Banking Symposium; December 2020.
-  * Richard K. Lyons and Ganesh Viswanath-Natraj. **What Keeps Stablecoins Stable?** 
+  * Richard K. Lyons and Ganesh Viswanath-Natraj. What Keeps Stablecoins Stable?
      - Australasian Finance & Banking Conference; December 2020.
 
 ### ACADEMIC PRESENTATIONS
