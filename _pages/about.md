@@ -15,8 +15,8 @@ WORKING PAPERS
 PUBLICATIONS
 ======
   * [Non-Standard Errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld and 341 others). Journal of Finance, forthcoming.
-  * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review. March 2023.
-  * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review. September 2022.
+  * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
+  * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
 WORKING IN PROGRESS
 ======
@@ -26,8 +26,8 @@ OTHER PROFESSIONAL ACTIVITIES
 ======
   * Organizing Committee: 
     - 5th BIS workshop on Research on global financial stability. [**Submission deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5.htm)
-    - Policy Challenges and International Spillovers in Times of High Inflation. Co-orginize with BoE, ECB and IMF. London, 27-28 April 2023.
-    - 12th Workshop on "Exchange Rates". Co-orginize with Banca d'Italia and ECB. 13 December 2022.
+    - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. London, 27-28 April 2023.
+    - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
   * Recruitment Committee (2021, 2022)
 
 PAPER DISCUSSIONS
