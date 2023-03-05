@@ -25,9 +25,10 @@ WORKING IN PROGRESS
 OTHER PROFESSIONAL ACTIVITIES
 ======
   * Organizing Committee: 
-    - Policy Challenges and International Spillovers in Times of High Inflation. Joint BIS, BoE, ECB and IMF Conference. London, 27-28 April 2023.
-    - 12th Workshop on "Exchange Rates". Joint BIS, Banca d'Italia and ECB. Basel, Switzerland, 13 December 2022.
-    - Research on global financial stability: the use of BIS international banking and financial statistics.  [**Call for papers. Submission deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5_cfp.pdf)
+    - 5th BIS workshop on Research on global financial stability. [**Submission deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5.htm)
+    - Policy Challenges and International Spillovers in Times of High Inflation. Co-orginize with BoE, ECB and IMF. London, 27-28 April 2023.
+    - 12th Workshop on "Exchange Rates". Co-orginize with Banca d'Italia and ECB. 13 December 2022.
+  * Recruitment Committee (2021, 2022)
 
 PAPER DISCUSSIONS
 ======
