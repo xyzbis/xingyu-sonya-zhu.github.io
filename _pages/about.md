@@ -11,7 +11,23 @@ redirect_from:
 WORKING PAPERS
 ======
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).
-  * [Inflation Compensation and Monetary Policy (with Vasilis Dedes)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699348).
+
+PUBLICATIONS
+======
+  * [Non-Standard Errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld and 341 others). Journal of Finance, forthcoming.
+  * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review. March 2023.
+  * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review. September 2022.
+
+WORKING IN PROGRESS
+======
+  * Inflation Disagreement (with Dora Xia).
+
+OTHER PROFESSIONAL ACTIVITIES
+======
+  * Organizing Committee: 
+    - Policy Challenges and International Spillovers in Times of High Inflation. Joint BIS, BoE, ECB and IMF Conference. London, 27-28 April 2023.
+    - 12th Workshop on "Exchange Rates". Joint BIS, Banca d'Italia and ECB. Basel, Switzerland, 13 December 2022.
+    - Research on global financial stability: the use of BIS international banking and financial statistics.  [**Call for Papers!**]{https://www.bis.org/events/cgfs_ibfsws5_cfp.pdf}
 
 EDUCATION
 ======
@@ -33,12 +49,12 @@ ACADEMIC PRESENTATIONS
  
 DISCUSSIONS
 ======
+  * Ehsan Azarmsa and Jian Li. **The Pricing and Welfare Implications of Non-anonymous Trading.** 
+     - Eastern Finance Association; April 2021.
   * Olivier Darmouni and Melina Papoutsi. **The Rise of Bond Financing in Europe.** 
      - World Finance & Banking Symposium; December 2020.
   * Richard K. Lyons and Ganesh Viswanath-Natraj. **What Keeps Stablecoins Stable?** 
      - Australasian Finance & Banking Conference; December 2020.
-  * Ehsan Azarmsa and Jian Li. **The Pricing and Welfare Implications of Non-anonymous Trading.** 
-     - Eastern Finance Association; April 2021.
   
 TEACHING
 ======
