@@ -25,7 +25,7 @@ redirect_from:
     - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. London, 27-28 April 2023.
     - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
   * Recruitment Committee (2021, 2022).
-  * Board member of Female Economist Network of Stockholm and Uppsala (2017).
+  * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
