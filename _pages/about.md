@@ -14,7 +14,7 @@ WORKING PAPERS
 
 PUBLICATIONS
 ======
-  * [Non-Standard Errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld and 341 others). Journal of Finance, forthcoming.
+  * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld and 341 others). Journal of Finance, forthcoming.
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
