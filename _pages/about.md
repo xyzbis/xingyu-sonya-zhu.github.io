@@ -25,6 +25,7 @@ redirect_from:
     - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. London, 27-28 April 2023.
     - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
   * Recruitment Committee (2021, 2022).
+  * Board member of Female Economist Network of Stockholm and Uppsala (2017).
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
@@ -56,27 +57,13 @@ redirect_from:
   * Derivatives in Investment Management (Bachelor, Stockholm School of Economics, 2017).
 
 ### HONORS AND GRANTS
-  * 2021 
-    - Edwin Jordans Stipendiefond.
-  * 2020 
-    - Grosshandlare Emil Hellströms PhD Scholarship.
-    - Iwar Sjögrens PhD Scholarship.
-  * 2019 
-    - Infina Foundation PhD Scholarship.
-  * 2017-2020 
-    - Swedish Bank Research Foundation Research Grant.
-  * 2015-2016 
-    - Stockholm School of Economics PhD Stipend.
-  * 2014
-    - Doreen Wilkinson Memorial Graduate Scholarship in Economics, Simon Fraser University.
-  * 2013-2014 
-    - Graduate Fellowship, Simon Fraser University.
+  * 2021: Edwin Jordans Stipendiefond.
+  * 2020: Grosshandlare Emil Hellströms PhD Scholarship, Iwar Sjögrens PhD Scholarship.
+  * 2019: Infina Foundation PhD Scholarship.
+  * 2017-2020: Swedish Bank Research Foundation Research Grant.
+  * 2015-2016: Stockholm School of Economics PhD Stipend.
+  * 2014: Doreen Wilkinson Memorial Graduate Scholarship in Economics, Simon Fraser University.
+  * 2013-2014: Graduate Fellowship, Simon Fraser University.
 
 ### COMPUTER SKILLS
   * Python, R, Slurm, SQL, Matlab, Stata, and SAS.
-
-### NONACADEMIC ACTIVITIES
-  * 2020-now
-    - Co-founder of [Letitbit](https://letitbit.se/). 
-  * 2017
-    - Board member of Female Economist Network of Stockholm and Uppsala.
