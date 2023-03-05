@@ -27,7 +27,16 @@ OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
     - Policy Challenges and International Spillovers in Times of High Inflation. Joint BIS, BoE, ECB and IMF Conference. London, 27-28 April 2023.
     - 12th Workshop on "Exchange Rates". Joint BIS, Banca d'Italia and ECB. Basel, Switzerland, 13 December 2022.
-    - Research on global financial stability: the use of BIS international banking and financial statistics.  [**Call for Papers!**](https://www.bis.org/events/cgfs_ibfsws5_cfp.pdf)
+    - Research on global financial stability: the use of BIS international banking and financial statistics.  [**Call for papers. Submission deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5_cfp.pdf)
+
+PAPER DISCUSSIONS
+======
+  * Ehsan Azarmsa and Jian Li. **The Pricing and Welfare Implications of Non-anonymous Trading.** 
+     - Eastern Finance Association; April 2021.
+  * Olivier Darmouni and Melina Papoutsi. **The Rise of Bond Financing in Europe.** 
+     - World Finance & Banking Symposium; December 2020.
+  * Richard K. Lyons and Ganesh Viswanath-Natraj. **What Keeps Stablecoins Stable?** 
+     - Australasian Finance & Banking Conference; December 2020.
 
 EDUCATION
 ======
@@ -46,15 +55,6 @@ ACADEMIC PRESENTATIONS
   - National PhD Workshop in Finance; SSE Brownbag; SSE PhD Seminar.
 * 2018 
   - SSE PhD Seminar.
- 
-DISCUSSIONS
-======
-  * Ehsan Azarmsa and Jian Li. **The Pricing and Welfare Implications of Non-anonymous Trading.** 
-     - Eastern Finance Association; April 2021.
-  * Olivier Darmouni and Melina Papoutsi. **The Rise of Bond Financing in Europe.** 
-     - World Finance & Banking Symposium; December 2020.
-  * Richard K. Lyons and Ganesh Viswanath-Natraj. **What Keeps Stablecoins Stable?** 
-     - Australasian Finance & Banking Conference; December 2020.
   
 TEACHING
 ======
