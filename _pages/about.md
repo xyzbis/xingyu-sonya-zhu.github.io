@@ -17,7 +17,8 @@ redirect_from:
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
 ### WORKING IN PROGRESS
-  * Inflation Disagreement (with Dora Xia).
+  * Inflation Disagreement and monetary policy transmission (with Alessandro Barbera and Dora Xia). **Draft coming soon.** 
+  * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf).
 
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
