@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-### WORKING PAPERS
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).
-
-### PUBLICATIONS
+### ACADEMIC PUBLICATIONS
   * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld and 341 others). Journal of Finance, forthcoming.
-  * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
-  * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
+
+### WORKING PAPERS
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).  
 
 ### WORKING IN PROGRESS
   * Inflation disagreement and monetary policy transmission (with Alessandro Barbera and Dora Xia). **Draft coming soon.** 
   * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf).
+
+### OTHER PUBLICATIONS
+  * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
+  * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
