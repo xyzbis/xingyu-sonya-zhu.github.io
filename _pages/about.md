@@ -36,6 +36,13 @@ redirect_from:
 * B.S. in Applied Mathematics, Wuhan University, 2013.
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
+### ACADEMIC PRESENTATIONS
+* 2023 BIS-SNB Research Workshop; Behavioral Macroeconomics Workshop (scheduled). 
+* 2022 and earlier
+  - Bank for International Settlements; E(astern)FA; Hong Kong University of Science and Technology (Guangzhou); University of Gothenburg; University of Vienna, 
+  - Australasian Finance and Banking Conference; PhD Nordic Finance Workshop; SSE Brownbag; Young Scholars Nordic Finance Workshop.
+  - National PhD Workshop in Finance; SSE PhD Seminar. 
+
 ### PAPER DISCUSSIONS
   * Ehsan Azarmsa and Jian Li. The Pricing and Welfare Implications of Non-anonymous Trading. 
      - Eastern Finance Association; April 2021.
@@ -43,14 +50,6 @@ redirect_from:
      - World Finance & Banking Symposium; December 2020.
   * Richard K. Lyons and Ganesh Viswanath-Natraj. What Keeps Stablecoins Stable?
      - Australasian Finance & Banking Conference; December 2020.
-
-### ACADEMIC PRESENTATIONS
-* 2021 
-  - Bank for International Settlements; E(astern)FA; Hong Kong University of Science and Technology (Guangzhou); University of Gothenburg; University of Vienna.
-* 2020 
-  - 33rd Australasian Finance and Banking Conference; PhD Nordic Finance Workshop; SSE Brownbag (x 2); Young Scholars Nordic Finance Workshop.
-* 2018-2019
-  - National PhD Workshop in Finance; SSE Brownbag; SSE PhD Seminar. 
   
 ### TEACHING
   * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020).
