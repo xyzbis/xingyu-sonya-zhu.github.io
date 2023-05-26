@@ -39,7 +39,7 @@ redirect_from:
 ### ACADEMIC PRESENTATIONS
 * 2023 Behavioral Macroeconomics Workshop (scheduled), BIS-SNB Research Workshop. 
 * 2022 and earlier
-  - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, SSE Brownbag, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
+  - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
 ### PAPER DISCUSSIONS
   * Ehsan Azarmsa and Jian Li. The Pricing and Welfare Implications of Non-anonymous Trading. 
