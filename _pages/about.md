@@ -12,11 +12,11 @@ redirect_from:
   * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld et al.). Journal of Finance, forthcoming.
 
 ### WORKING PAPERS
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543).  
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543). **Submitted**
 
 ### WORKING IN PROGRESS
   * Inflation disagreement and monetary policy transmission (with Alessandro Barbera and Dora Xia). **Draft coming soon.** 
-  * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf).
+  * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf). 
 
 ### OTHER PUBLICATIONS
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
