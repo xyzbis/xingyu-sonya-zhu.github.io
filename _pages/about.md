@@ -13,7 +13,7 @@ redirect_from:
 
 ### WORKING PAPERS
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**submitted**).
-  * [Inflation disagreement and monetary policy transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia). 
+  * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia). 
 ### WORKING IN PROGRESS
   * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf). 
 
