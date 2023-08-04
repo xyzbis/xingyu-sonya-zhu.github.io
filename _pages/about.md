@@ -12,8 +12,8 @@ redirect_from:
   * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld et al.). Journal of Finance, forthcoming.
 
 ### WORKING PAPERS
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543)(**submitted**).
-  * [Inflation disagreement and monetary policy transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495)(with Alessandro Barbera and Fan Dora Xia). 
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**submitted**).
+  * [Inflation disagreement and monetary policy transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia). 
 ### WORKING IN PROGRESS
   * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf). 
 
